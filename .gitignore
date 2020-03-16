@@ -1,0 +1,7 @@
+node_modules
+etc
+.env
+.vs
+
+img/input
+img/output

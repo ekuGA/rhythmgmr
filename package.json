@@ -1,0 +1,21 @@
+{
+  "name": "rhythmgmr",
+  "version": "1.0.0",
+  "description": "random discord bot for random rhythm game bs",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "author": "Eku",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "image-downloader": "^3.5.0",
+    "sharp": "^0.24.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
