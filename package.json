@@ -13,7 +13,7 @@
     "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
     "image-downloader": "^3.5.0",
-    "sharp": "^0.24.1"
+    "sharp": "^0.30.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
